@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @djbatt
+- 👀 I’m interested in svelte, rust, and SaaS
+- 🌱 I’m currently learning sveltekit, Delta E color perception, and rust lang
+- 💞️ I’m looking to collaborate on small scale conferencing technology
+- 📫 How to reach me @battistondave on twitter
